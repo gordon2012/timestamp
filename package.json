@@ -1,0 +1,23 @@
+{
+  "name": "timestamp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gordon2012/timestamp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gordon2012/timestamp/issues"
+  },
+  "homepage": "https://github.com/gordon2012/timestamp#readme",
+  "dependencies": {
+    "express": "^4.13.3",
+    "moment": "^2.11.0"
+  }
+}
